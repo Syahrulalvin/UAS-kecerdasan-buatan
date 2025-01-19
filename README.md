@@ -1,3 +1,8 @@
+UAS KECERDASAN BUATAN
+Nama : Syahrul Alvin Chusnan
+NIM : 23422044
+
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
